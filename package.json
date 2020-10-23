@@ -1,0 +1,7 @@
+{
+    "name": "first-js",
+    "version": "1.0.0",
+    "dependencies": {
+        "node-gd": "^2.1.1"
+    }
+}
